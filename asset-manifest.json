@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/interview_HW/static/css/main.944c7aca.css",
+    "main.js": "/interview_HW/static/js/main.d077f202.js",
+    "index.html": "/interview_HW/index.html",
+    "static/media/arrow.svg": "/interview_HW/static/media/arrow.0af1b60ad8fbdb21542e.svg",
+    "main.944c7aca.css.map": "/interview_HW/static/css/main.944c7aca.css.map",
+    "main.d077f202.js.map": "/interview_HW/static/js/main.d077f202.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944c7aca.css",
+    "static/js/main.d077f202.js"
+  ]
+}
